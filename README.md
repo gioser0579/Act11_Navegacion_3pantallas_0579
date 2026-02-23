@@ -2,11 +2,13 @@
 A new Flutter project.
 <img width="1225" height="494" alt="image" src="https://github.com/user-attachments/assets/33f73fc8-5816-4110-a41c-97751a992172" />
 <img width="1224" height="490" alt="image" src="https://github.com/user-attachments/assets/cacc7d81-e213-446f-9b13-c83352da4981" />
-<img width="1227" height="494" alt="image" src="https://github.com/user-attachments/assets/dc7e1114-3891-45ae-a89e-3acea0be20fd" />
+<img width="1216" height="495" alt="image" src="https://github.com/user-attachments/assets/e0d7b837-20a0-4270-a283-5a37e29d3f75" />
+
 
 <img width="322" height="477" alt="image" src="https://github.com/user-attachments/assets/5e6c0147-6a29-4d43-aa5a-918d483f6c7f" />
 <img width="299" height="480" alt="image" src="https://github.com/user-attachments/assets/28e421f5-4e88-4319-9a04-f769482fa564" />
-<img width="333" height="491" alt="image" src="https://github.com/user-attachments/assets/29836793-8217-48b2-8efd-4daab153c04d" />
+<img width="283" height="478" alt="image" src="https://github.com/user-attachments/assets/d5ee2ae6-37e6-4391-b661-b44281416530" />
+
 
 ## Getting Started
 ## mi prompt navegacion 3 paginas 
